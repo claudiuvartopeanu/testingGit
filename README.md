@@ -1,2 +1,4 @@
 # testingGit
-hello
+hello Andrei!
+
+Version 1
